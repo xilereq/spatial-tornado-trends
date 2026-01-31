@@ -1,0 +1,13 @@
+# ===== IDE (PyCharm / IntelliJ) =====
+.idea/
+*.iml
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Wygenerowane pliki HTML (mapy, raporty) =====
+*.html
+
+# ===== Systemowe śmieci =====
+.DS_Store
+Thumbs.db
